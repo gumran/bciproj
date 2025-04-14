@@ -1,3 +1,5 @@
 train
 ChannelsLocation.csv
 TrainLabels.csv
+venv
+all_epochs.npy
