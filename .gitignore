@@ -1,4 +1,4 @@
-train
+dataset
 ChannelsLocation.csv
 TrainLabels.csv
 venv
